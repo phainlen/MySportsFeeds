@@ -1,2 +1,2 @@
 # MySportsFeeds
-PowerShell Scripts to interface with the MySportsFeeds API
+PowerShell Script to interface with the MySportsFeeds API
